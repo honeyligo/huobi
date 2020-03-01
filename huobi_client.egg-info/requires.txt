@@ -1,0 +1,4 @@
+requests
+apscheduler
+websocket-client
+urllib3
